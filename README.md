@@ -66,3 +66,7 @@ https://github.com/rejeep/evm
 ## 延伸閱讀
 
 * [Emacs Lisp Unit Testing](https://www.emacswiki.org/emacs/UnitTesting)
+
+## 文件授權
+
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
